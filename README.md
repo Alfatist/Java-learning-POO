@@ -1,4 +1,4 @@
-# java-learning-POO
+# java-learning-POO (Notice the "POO", in *portuguese*)
 How I learned OOP with Java. // 19/01/2023
 Course taken: https://youtu.be/KlIL63MeyMY (Curso em Video)
 
