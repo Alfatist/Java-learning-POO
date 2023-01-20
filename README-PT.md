@@ -1,12 +1,15 @@
 # Java-learning-POO   
-Como eu aprendi POO com Java.     //          19/01/2004
+Como eu aprendi POO com Java.
 Curso feito: https://youtu.be/KlIL63MeyMY (Curso em Vídeo)     
+
+                            19/01/2004
+
 
 Todo dia, estudei os conceitos e então pratiquei. Como resultado, 
 agora consigo programar melhor qualquer coisa, e com certeza me ajudará 
 a programar qualquer coisa. Todos os projetos são independentes entre si.
 
-Houve puramente teóricas, como História do POO, boas maneiras de digitar uma
+Houve aulas puramente teóricas, como História do POO, boas maneiras de digitar uma
 classe e entre outros. Aqui, no entanto, me concentrei na prática.
 
 ---------------------------------------------------------------------------------
